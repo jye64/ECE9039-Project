@@ -1,11 +1,11 @@
 # ECE 9039 Project - Generative Adversarial Network
 
-### Models
+## Models
 
 * CycleGAN
 * Neural Style Transfer
 
-### Datasets 
+## Datasets 
 
 https://www.kaggle.com/c/gan-getting-started/data
 https://www.kaggle.com/dimitreoliveira/tfrecords-monet-paintings-256x256
