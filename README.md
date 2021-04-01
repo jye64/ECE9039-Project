@@ -1,5 +1,9 @@
 # ECE 9039 Project - Generative Adversarial Network
 
+## Overview
+
+The project aims to translate photos into Claude Monet's painting style with GAN.
+
 ## Models
 
 * CycleGAN
