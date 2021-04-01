@@ -12,5 +12,6 @@ The project aims to translate photos into Claude Monet's painting style with GAN
 ## Datasets 
 
 https://www.kaggle.com/c/gan-getting-started/data
+
 https://www.kaggle.com/dimitreoliveira/tfrecords-monet-paintings-256x256
 
