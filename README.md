@@ -16,9 +16,6 @@ The project aims to translate photos into Claude Monet's painting style with GAN
 
 [cyclegan-example1]:  https://github.com/jye64/ECE9039-Project/blob/main/CycleGAN-example1.png
 
-![alt text][cyclegan-example2]
-
-[cyclegan-example2]:  https://github.com/jye64/ECE9039-Project/blob/main/CycleGAN-example2.png
 
 * DiscoGAN
 
