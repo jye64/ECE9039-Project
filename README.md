@@ -8,6 +8,16 @@ The project is jointly developed by Ruize Xu (rxu293), Jianping Ye, and Lichuan 
 
 The project aims to translate photos into Claude Monet's painting style with GANs and neural style transfer model.
 
+## Examples outputs
+
+[cyclegan-example1]:  https://github.com/jye64/ECE9039-Project/blob/main/CycleGAN-example1.png
+[cyclegan-example2]:  https://github.com/jye64/ECE9039-Project/blob/main/CycleGAN-example2.png
+
+[discogan-example]:  https://github.com/jye64/ECE9039-Project/blob/main/DiscoGAN-example.png
+
+[NST-example]:  https://github.com/jye64/ECE9039-Project/blob/main/NST-example.png
+
+
 ## Contributors
 
 * CycleGAN.ipynb - Jianping Ye
